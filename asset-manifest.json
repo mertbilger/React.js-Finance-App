@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React.js-Finance-App/static/css/main.fb2e717c.css",
+    "main.js": "/React.js-Finance-App/static/js/main.311fe574.js",
+    "index.html": "/React.js-Finance-App/index.html",
+    "main.fb2e717c.css.map": "/React.js-Finance-App/static/css/main.fb2e717c.css.map",
+    "main.311fe574.js.map": "/React.js-Finance-App/static/js/main.311fe574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2e717c.css",
+    "static/js/main.311fe574.js"
+  ]
+}
